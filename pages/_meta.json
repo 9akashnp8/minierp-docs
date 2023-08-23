@@ -1,6 +1,8 @@
 {
   "index": "Introduction",
-  "getting-started" : {
-    "title": "Getting Started"
-  }
+  "quick-links" : {
+    "title": "Quick Links"
+  },
+  "installation": "Installation",
+  "tutorial": "Tutorial"
 }
